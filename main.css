@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(192, 182, 182);
+}
+.container{
+    display:flex;
+    justify-content: center;
+}
+.row{
+
+   background-color: white;
+   width: fit-content;
+   padding: 40px;
+}
+.Add{
+    background-color: rgb(7, 166, 7);
+    color: aliceblue;
+    padding: 5px 10px;
+    border: none ;
+}
+.text{
+    width:200px;
+    padding: 5px 10px;
+}
+li{
+    list-style: none;
+}
+.tasks div{
+    padding:10px;
+    border: solid 1px goldenrod;
+    margin-top: 5px;
+    border-radius: 10px;
+
+}
